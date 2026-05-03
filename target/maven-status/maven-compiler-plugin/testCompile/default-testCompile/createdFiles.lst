@@ -1,0 +1,7 @@
+com/highcard/GameServiceTest.class
+com/highcard/RoundServiceTest.class
+com/highcard/DeckTest.class
+com/highcard/AdjustmentServiceTest.class
+com/highcard/PlayerTest.class
+com/highcard/BonusServiceTest.class
+com/highcard/CardTest.class
